@@ -4,7 +4,7 @@ This repository contains a Python-based homework assignment for practicing **Num
 
 ---
 
-### 🧩 Business Problem
+### Business Problem
 
 In real-world machine learning projects, data is often limited. To train better models without collecting more data, **data augmentation** is used — especially in computer vision tasks. Augmenting the data helps prevent **overfitting** and improves **model generalization** by artificially expanding the dataset using transformations like flipping, color manipulation, cropping, and gamma correction.
 
@@ -12,7 +12,7 @@ This assignment explores how simple NumPy operations can simulate real-world dat
 
 ---
 
-### 📦 Dataset Overview
+### Dataset Overview
 
 The images used were provided in two formats:
 
@@ -23,7 +23,7 @@ Both images depict the same scene but differ slightly in data storage structure 
 
 ---
 
-### 🎯 Project Objective
+### Project Objective
 
 This assignment focused on:
 
@@ -45,7 +45,7 @@ All tasks were completed using only **NumPy** and **Matplotlib** — no external
 
 ---
 
-### 🛠️ Solution Approach
+### Solution Approach
 
 The complete workflow involved:
 
@@ -70,7 +70,7 @@ The complete workflow involved:
 
 ---
 
-### 💡 Business Value
+### Business Value
 
 This assignment mirrors real-world needs in:
 
@@ -82,7 +82,7 @@ The ability to perform low-level array-based image manipulation builds essential
 
 ---
 
-### 🚧 Challenges Encountered
+### Challenges Encountered
 
 - **Data scaling differences** between PNG and JPG formats required attention to color value ranges
 - **Transparency manipulation** involved careful slicing and updating only the Alpha channel
